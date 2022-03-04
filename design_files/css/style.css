@@ -10,7 +10,6 @@
   box-sizing: border-box; }
 
 body {
-  font-family: "Poppins-Regular";
   color: #333;
   font-size: 13px;
   margin: 0; }
@@ -119,4 +118,43 @@ select {
   left: 0px;
   top: 0px;
 }
-  
+
+.content-1 {
+  position:absolute;
+  width: 600px;
+  height: 108px;
+  left: 20%;
+  top: 200px;
+
+  font-style: normal;
+  font-weight: normal;
+  font-size: 50px;
+  line-height: 63px;
+
+}
+
+
+.content-2 {
+  position: absolute;
+  width: 504px;
+  height: 50px;
+  left: 20%;
+  top: 350px;
+
+
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 30px;
+
+}
+
+
+/* footer */
+
+.footer-home {
+
+
+
+
+}
